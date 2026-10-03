@@ -1,8 +1,8 @@
 ---
-layout: single
+#layout: single
 #title: "写作"
-permalink: /writing/
-author_profile: true
+#permalink: /writing/
+#author_profile: true
 ---
 
 编译文章

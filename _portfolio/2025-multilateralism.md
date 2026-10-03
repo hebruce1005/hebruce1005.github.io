@@ -13,5 +13,5 @@ date: 2025-05-11
 项目材料
 ======
 
-- [阅读 / 下载论文 PDF（0428 修改稿）]({{ '/files/multilateralism-historical-institutionalism-paper.pdf' | relative_url }})
-- [下载学术论坛汇报 PPTX]({{ '/files/multilateralism-presentation-20250511.pptx' | relative_url }})
+- **论文（0428 修改稿）**：{% include file-actions.html preview="/files/multilateralism-historical-institutionalism-paper.pdf" download="/files/multilateralism-historical-institutionalism-paper.pdf" download_label="下载 PDF" %}
+- **学术论坛汇报**：{% include file-actions.html preview="/files/previews/multilateralism-presentation-20250511.pdf" download="/files/multilateralism-presentation-20250511.pptx" download_label="下载 PPTX" %}

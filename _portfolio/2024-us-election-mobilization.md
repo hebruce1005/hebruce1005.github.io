@@ -15,4 +15,4 @@ date: 2024-12-06
 汇报材料
 ======
 
-[下载《激情、技艺与方法——美国两党选举动员路径比较》汇报 PPTX]({{ '/files/us-party-election-mobilization-2024.pptx' | relative_url }})
+《激情、技艺与方法——美国两党选举动员路径比较》汇报材料：{% include file-actions.html preview="/files/previews/us-party-election-mobilization-2024.pdf" download="/files/us-party-election-mobilization-2024.pptx" download_label="下载 PPTX" %}

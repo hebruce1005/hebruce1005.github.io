@@ -13,5 +13,5 @@ date: 2025-05-10
 项目材料
 ======
 
-- [阅读 / 下载论文 PDF]({{ '/files/trump-election-polling-paper.pdf' | relative_url }})
-- [下载学术论坛汇报 PPTX]({{ '/files/trump-election-polling-presentation-20250510.pptx' | relative_url }})
+- **论文**：{% include file-actions.html preview="/files/trump-election-polling-paper.pdf" download="/files/trump-election-polling-paper.pdf" download_label="下载 PDF" %}
+- **学术论坛汇报**：{% include file-actions.html preview="/files/previews/trump-election-polling-presentation-20250510.pdf" download="/files/trump-election-polling-presentation-20250510.pptx" download_label="下载 PPTX" %}

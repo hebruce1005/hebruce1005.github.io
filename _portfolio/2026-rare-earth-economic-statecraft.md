@@ -12,7 +12,7 @@ date: 2026-07-01
 
 论文定稿日期：2026 年 5 月 26 日。
 
-[阅读 / 下载毕业论文 PDF]({{ '/files/hebingqi-undergraduate-thesis.pdf' | relative_url }})
+{% include file-actions.html preview="/files/hebingqi-undergraduate-thesis.pdf" download="/files/hebingqi-undergraduate-thesis.pdf" download_label="下载毕业论文 PDF" %}
 
 - 系统梳理 1985—2026 年中国稀土产业政策演进。
 - 比较 2010 年对日与 2025 年对美两次稀土反制及目标国行为调整。

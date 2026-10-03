@@ -1,0 +1,5 @@
+<span class="file-actions">
+  <a href="{{ '/preview/?file=' | append: include.preview | relative_url }}" target="_blank" rel="noopener">在线预览 PDF</a>
+  <span aria-hidden="true"> · </span>
+  <a href="{{ include.download | relative_url }}" download>{{ include.download_label | default: "下载文件" }}</a>
+</span>

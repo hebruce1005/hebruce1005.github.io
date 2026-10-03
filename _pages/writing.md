@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "写作"
+#title: "写作"
 permalink: /writing/
 author_profile: true
 ---
 
-公众号编译文章
+编译文章
 ======
 
 1. [编译28｜立法僵局的动态成因](https://mp.weixin.qq.com/s/3SL_D66KduPj46RFPSRXXw)
@@ -18,7 +18,6 @@ author_profile: true
 
 个人公众号
 ======
-
 ### 回不去日记
 我时常也会更新一些公众号文章：
 

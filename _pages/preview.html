@@ -1,0 +1,76 @@
+---
+layout: single
+title: "文件预览"
+permalink: /preview/
+author_profile: false
+---
+
+<p class="pdf-preview__actions">
+  <a id="pdf-preview-download" class="btn btn--primary" href="#" download>下载 PDF</a>
+</p>
+
+<p id="pdf-preview-error" hidden>预览地址无效，请返回项目页面重新打开。</p>
+
+<object
+  id="pdf-preview"
+  class="pdf-preview"
+  type="application/pdf"
+  aria-label="PDF 文件预览"
+  hidden>
+  <p>当前浏览器无法嵌入显示 PDF，请使用上方按钮下载文件。</p>
+</object>
+
+<script>
+  (function () {
+    var file = new URLSearchParams(window.location.search).get("file");
+    var preview = document.getElementById("pdf-preview");
+    var download = document.getElementById("pdf-preview-download");
+    var error = document.getElementById("pdf-preview-error");
+
+    if (!file) {
+      error.hidden = false;
+      download.hidden = true;
+      return;
+    }
+
+    var url = new URL(file, window.location.origin);
+    var isLocalPdf = url.origin === window.location.origin &&
+      url.pathname.indexOf("/files/") === 0 &&
+      url.pathname.toLowerCase().endsWith(".pdf");
+
+    if (!isLocalPdf) {
+      error.hidden = false;
+      download.hidden = true;
+      return;
+    }
+
+    preview.data = url.href;
+    preview.hidden = false;
+    download.href = url.href;
+    download.setAttribute("download", url.pathname.split("/").pop());
+  }());
+</script>
+
+<style>
+  .pdf-preview {
+    display: block;
+    width: 100%;
+    height: calc(100vh - 12rem);
+    min-height: 38rem;
+    border: 1px solid var(--global-border-color);
+  }
+
+  .pdf-preview[hidden] {
+    display: none;
+  }
+
+  .pdf-preview__actions {
+    margin-bottom: 1rem;
+  }
+
+  @media (max-width: 600px) {
+    .pdf-preview {
+      min-height: 30rem;
+    }
+  }
+</style>

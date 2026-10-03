@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "个人简历"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,91 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育背景
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **复旦大学国际关系与公共事务学院**，国际政治方向，2026.9—2029.6
+  - 预推免政治学方向复试第一（1/42）
+- **北京外国语大学国际关系学院**，外交学，2022.9—2026.6
+  - GPA：3.9/4.0；学业成绩排名：1/90
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+研究兴趣
+======
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- 人工智能与国际关系
+- 产业政策与经济方略
+- 计算政治学
 
-Publications
+荣誉奖励
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+
+- 2024—2025 学年本科生国家奖学金
+- 2026 年北京外国语大学校级优秀毕业论文
+- 2022—2025 学年北京外国语大学校三好学生
+- 2024 年北京外国语大学优秀共青团员
+- 北京外国语大学首届本科生学术创新论坛二等奖
+- 北京外国语大学国际关系学院第四届本科生学术论坛三等奖
+
+研究经历
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+
+### 香港大学政治与公共行政学系｜研究助理（2026.5—2026.8）
+
+**《清代海洋贸易政策的开放与管制之争——基于第一历史档案馆奏折的数据构建》**
+
+- 协助 Austin Strange 教授梳理清代海洋贸易政策中的开放与管制立场及其论证。基于中国第一历史档案馆奏折目录，设计并执行 100 余组“关键词 × 年号”组合检索，清洗整合近 9,000 条档案记录。
+- 构建包含 33 个变量的编码框架，对 2,800 余条档案进行相关性筛选，识别税收、粮食安全、政府收入、海防及商人逐利等政策论证机制。
+- 使用 AI Agent 与 Python 脚本辅助批量检索、字段解析、年号转换、编码簿生成及规则化初筛，并设置人工复核与交叉核查流程。
+
+### 北京外国语大学校级优秀毕业论文｜独立完成（2026.7）
+
+**《产业政策如何影响经济方略有效性——以中国两次对外稀土反制为例》**
+
+- 系统梳理 1985—2026 年中国稀土产业政策演进，比较 2010 年对日与 2025 年对美两次稀土反制。
+- 整合商务部、海关总署、USGS、UN Comtrade 等政策、产业与贸易资料，从出口结构、产业集中度和产业链控制深度分析产业政策如何塑造国家对外经济方略。
+
+### 清华大学国际关系学院数据与计算实验室｜研究助理（2024.10—至今）
+
+- 使用 R 与 Stata 复现国际关系与政治学领域的实证研究，运用 OLS、Logit 回归与 DID 等方法完成数据处理、模型设定、结果检验及汇报。
+- 已完成“资源类型与领土主张”和“应用 AI 技术考察冲突升级”两项研究的代码复现。
+
+### 北京外国语大学国家级大学生创新创业训练计划项目（2024.4—2025.6）
+
+**《全球治理视域下中国高校国际组织人才培养模式探析——基于北京外国语大学国际组织学院的人才培养实践》**
+
+- 设计并开展 10 次半结构访谈，基于扎根理论清洗、整理并三级编码访谈文本。
+- 使用 NVivo 对非结构化文本进行分类与主题提取，分析国际组织人才培养模式的优势与局限。
+
+### “历史与当下的美国”工作坊（第一期）（2024.12.6）
+
+**《激情、技艺与方法——美国两党选举动员路径比较》**
+
+- 使用 Python 调用 API 并编写爬虫，采集 FEC、American Presidency Project、Meta Ad Library 等竞选资金、集会与政治广告数据。
+- 对竞选支出说明、集会演讲与政治广告文本进行规则编码和 NLP 分析，比较美国两党的差异化选举动员路径。
+
+工作与实践经历
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+
+### Enlearning AI 学习平台｜核心成员·产品设计与 AI 辅助开发（2026.4—至今）
+
+- 面向 A-Level 学习场景，围绕课程、题库、知识掌握度、练习反馈和薄弱项复习设计产品流程。
+- 基于 2,690 条 CAIE 9709 数学真题分类记录搭建知识体系，形成 144 节课程与 710 张概念闪卡，并参与 AI 助教、拍照判分和学习诊断流程设计。
+
+### 作业帮｜AI 教育内容开发实习生（2026.3—2026.6）
+
+- 围绕初高中英语教学目标参与教案撰写、内容审查和配套 PPT 开发与复核，累计独立交付 50 余套课程 PPT。
+- 使用多模态模型制作人物、场景和连续故事素材，并围绕一致性、连续性、构图和视觉风格评估与迭代生成结果。
+
+### 西部证券研发中心地缘政治组（海外政策组）｜实习生（2025.11—2026.6）
+
+- 参与买方课题《中美关系历史梳理、未来演进及潜在影响分析》，负责历史资料、政策文件和关系指数等资料的搜集与核验。
+- 在带教老师指导下初步完成《如何看待 2026 年美国中期选举》，整理民调、财政、关税及美股美债数据，完成近 30 页报告、30 幅图表和配套汇报材料。
+- 持续跟踪海外政策与地缘政治议题，制作周报、数据底稿和汇报材料，并使用 Wind 维护宏观经济与大类资产数据。
+
+专业技能
 ======
-* Currently signed in to 43 different slack teams
+
+- **编程与数据分析：** Python、R、Stata
+- **研究方法：** 计量分析、文本分析、语义网络与社会网络分析、fsQCA、GIS 可视化
+- **研究工具：** GitHub、Gephi、NVivo、ArcGIS、Wind，Claude、Codex、WorkBuddy
+- **语言能力：** 大学英语六级（543）；英语专业四级（良好）；英语专业八级

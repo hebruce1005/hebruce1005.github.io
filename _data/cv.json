@@ -1,152 +1,124 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "何柄岐",
+    "label": "国际政治研究生",
+    "email": "bqhe26@m.fudan.edu.cn",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://hebruce1005.github.io",
+    "summary": "研究兴趣包括人工智能与国际关系、产业政策与经济方略、计算政治学。",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "上海",
+      "countryCode": "中国",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "hebruce1005",
+        "url": "https://github.com/hebruce1005"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Enlearning AI 学习平台",
+      "position": "核心成员·产品设计与 AI 辅助开发",
+      "startDate": "2026.4",
+      "endDate": "至今",
+      "summary": "面向 A-Level 学习场景设计课程、题库、练习反馈和 AI 辅助诊断流程。",
+      "highlights": [
+        "基于 2,690 条 CAIE 9709 数学真题分类记录搭建知识体系。",
+        "形成 144 节课程与 710 张概念闪卡，并参与拍照判分和学习诊断流程设计。"
+      ]
+    },
+    {
+      "company": "作业帮",
+      "position": "AI 教育内容开发实习生",
+      "startDate": "2026.3",
+      "endDate": "2026.6",
+      "summary": "参与初高中英语教案、课程内容和多模态教学素材的开发与审核。",
+      "highlights": [
+        "累计独立交付 50 余套课程 PPT。"
+      ]
+    },
+    {
+      "company": "西部证券研发中心地缘政治组（海外政策组）",
+      "position": "实习生",
+      "startDate": "2025.11",
+      "endDate": "2026.6",
+      "summary": "参与海外政策与地缘政治研究，负责资料核验、数据分析、图表制作和报告撰写。",
+      "highlights": [
+        "参与《中美关系历史梳理、未来演进及潜在影响分析》。",
+        "在带教老师指导下初步完成《如何看待 2026 年美国中期选举》。"
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "复旦大学国际关系与公共事务学院",
+      "area": "国际政治方向",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2026.9",
+      "endDate": "2029.6",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "北京外国语大学国际关系学院",
+      "area": "外交学",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "startDate": "2022.9",
+      "endDate": "2026.6",
+      "gpa": "3.9/4.0",
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "编程与数据分析",
+      "keywords": ["Python", "R", "Stata"]
+    },
+    {
+      "name": "研究方法",
+      "keywords": ["计量分析", "文本分析", "语义网络与社会网络分析", "fsQCA", "GIS 可视化"]
+    },
+    {
+      "name": "研究工具",
+      "keywords": ["GitHub", "Gephi", "NVivo", "ArcGIS", "Wind", "Claude", "Codex", "WorkBuddy"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "英语",
+      "fluency": "大学英语六级 543；英语专业四级（良好）；英语专业八级"
+    }
+  ],
+  "interests": [
+    {
+      "name": "研究兴趣",
+      "keywords": ["人工智能与国际关系", "产业政策与经济方略", "计算政治学"]
+    }
+  ],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "清代海洋贸易政策的开放与管制之争",
+      "category": "研究项目",
+      "date": "2026-05-01",
+      "url": "/portfolio/qing-maritime-trade-policy/",
+      "description": "基于中国第一历史档案馆奏折目录的数据构建与政策论证分析。"
+    },
+    {
+      "name": "产业政策如何影响经济方略有效性",
+      "category": "优秀毕业论文",
+      "date": "2026-07-01",
+      "url": "/portfolio/rare-earth-economic-statecraft/",
+      "description": "以中国两次对外稀土反制为例的政策与产业数据分析。"
     }
   ]
 }

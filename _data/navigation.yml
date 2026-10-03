@@ -5,6 +5,8 @@ main:
 
   - title: "研究项目"
     url: /portfolio/
+  - title: "编译与写作"
+    url: /writing/
 
   - title: "个人简历"
     url: /cv/

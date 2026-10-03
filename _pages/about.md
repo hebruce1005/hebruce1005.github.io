@@ -28,6 +28,13 @@ redirect_from:
 - **国际关系实证研究复现**：使用 R 与 Stata 复现政治学与国际关系研究，开展数据处理、模型设定和结果检验。
 - **美国两党选举动员路径比较**：使用 Python、API 与自然语言处理方法分析竞选资金、集会和政治广告数据。
 
+作品与资料
+======
+
+- [本科毕业论文：产业政策如何影响经济方略有效性]({{ '/portfolio/rare-earth-economic-statecraft/' | relative_url }})
+- [公众号编译文章、文献编译矩阵与个人公众号]({{ '/writing/' | relative_url }})
+- [国际关系与政治学笔记：12 份主题笔记与 1 份前言]({{ '/portfolio/ir-political-science-notes/' | relative_url }})（仅展示文件名称）
+
 教育背景
 ======
 

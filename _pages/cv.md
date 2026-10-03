@@ -78,6 +78,8 @@ redirect_from:
 
 ### Enlearning AI 学习平台｜核心成员·产品设计与 AI 辅助开发（2026.4—至今）
 
+[访问 Enlearning 学习平台](https://enlearning-web-prod.pages.dev/)
+
 - 面向 A-Level 学习场景，围绕课程、题库、知识掌握度、练习反馈和薄弱项复习设计产品流程。
 - 基于 2,690 条 CAIE 9709 数学真题分类记录搭建知识体系，形成 144 节课程与 710 张概念闪卡，并参与 AI 助教、拍照判分和学习诊断流程设计。
 

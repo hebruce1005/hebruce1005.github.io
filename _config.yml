@@ -26,9 +26,9 @@ author:
   avatar           : "hebingqi-profile-graduation.jpg"
   name             : "何柄岐"
   pronouns         : # example: "she/her"  
-  bio              : "不为忘却但为抚慰，采块冰石融进七月"
-  location         : "中国上海"
-  employer         : "复旦大学国际关系与公共事务学院"
+  bio              : "Attention Is All You Need"
+  location         : "上海杨浦"
+ # employer         : "复旦大学国际关系与公共事务学院"
   uri              : # URL
   email            : "bqhe26@m.fudan.edu.cn"
 
@@ -81,7 +81,6 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:

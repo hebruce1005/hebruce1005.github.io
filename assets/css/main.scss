@@ -8,6 +8,24 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
+@font-face {
+  font-family: "Site Source Han Serif";
+  src: url("{{ '/assets/fonts/source-han-serif-cn-regular.woff' | relative_url }}") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+2E80-9FFF, U+F900-FAFF, U+FE10-FE1F, U+FE30-FE4F, U+FF00-FFEF, U+20000-3134F, U+2014, U+2018-201F, U+2026, U+00B7;
+}
+
+@font-face {
+  font-family: "Site Source Han Serif";
+  src: url("{{ '/assets/fonts/source-han-serif-cn-bold.woff' | relative_url }}") format("woff");
+  font-weight: 600 900;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+2E80-9FFF, U+F900-FAFF, U+FE10-FE1F, U+FE30-FE4F, U+FF00-FFEF, U+20000-3134F, U+2014, U+2018-201F, U+2026, U+00B7;
+}
+
 @import
     "vendor/breakpoint/breakpoint",
 

@@ -18,12 +18,13 @@
   }
 
   @media screen and (min-width: $sidebar-screen-min-width) {
+    // Align the profile with the content instead of reserving a sticky offset.
+    margin-top: 0;
     height: auto;
-    max-height: calc(100vh - #{$masthead-height} - 2rem);
-    overflow-y: auto;
-    position: -webkit-sticky;
-    position: sticky;
-    top: calc(#{$masthead-height} + 1rem);
+    max-height: none;
+    overflow-y: visible;
+    position: relative;
+    top: 0;
     padding-bottom: 1rem;
   }
 

@@ -6,7 +6,7 @@ permalink: /portfolio/rare-earth-economic-statecraft/
 date: 2026-07-01
 ---
 
-该研究为北京外国语大学校级优秀毕业论文，由本人独立完成。
+该论文获评为北京外国语大学校级优秀毕业论文，本人独立写作，但受益于跟[李帅宇老师](https://sird.bfsu.edu.cn/info/1073/3723.htm)的诸多讨论交流。
 
 **本科毕业论文** · 北京外国语大学国际关系学院外交学专业
 

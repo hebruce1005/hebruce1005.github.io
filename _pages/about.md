@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-我是何柄岐，现就读于[复旦大学国际关系与公共事务学院](https://sirpa.fudan.edu.cn/)，研究方向为国际政治。本科毕业于北京外国语大学国际关系学院外交学专业。
+我是何柄岐，现在是[复旦大学国际关系与公共事务学院](https://sirpa.fudan.edu.cn/)的硕士一年级学生，专业为国际政治，本科毕业于北京外国语大学国际关系学院外交学专业。
 
 我的研究兴趣集中在**人工智能与国际关系、产业政策与经济方略、计算政治学**。我关注新兴技术与产业能力如何影响国家间竞争、经济安全与对外政策，也尝试使用定量分析、文本分析和 AI 辅助工作流处理国际关系研究中的大规模资料。
 
@@ -49,7 +49,7 @@ redirect_from:
 
 - [本科毕业论文：产业政策如何影响经济方略有效性]({{ '/portfolio/rare-earth-economic-statecraft/' | relative_url }})
 - [公众号编译文章、文献编译矩阵与个人公众号]({{ '/writing/' | relative_url }})
-- [国际关系与政治学笔记：12 份主题笔记与 1 份前言]({{ '/portfolio/ir-political-science-notes/' | relative_url }})（仅展示文件名称）
+- [国际关系与政治学笔记：12 份主题笔记与 1 份前言]({{ '/portfolio/ir-political-science-notes/' | relative_url }})（提供前言与各主题目录下载）
 
 联系方式
 ======

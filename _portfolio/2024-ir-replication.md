@@ -15,7 +15,7 @@ date: 2024-10-01
 汇报材料
 ======
 
-以下为 2026 年 2 月的 DCL 读书会材料，由杨洁菡、何柄岐、修小苏共同署名。
+以下为2026年2月DCL读书会汇报材料，由杨洁菡、修小苏同学和我合作完成。
 
-- **研究复现汇报**：《Resources and Territorial Claims: Domestic Opposition to Resource-Rich Territory》（资源与领土主张）。{% include file-actions.html preview="/files/previews/dcl-territorial-claims-replication-20260207.pdf" download="/files/dcl-territorial-claims-replication-20260207.pptx" download_label="下载 PPTX" %}
-- **文章介绍汇报**：《What is Escalation? Measuring Crisis Dynamics in International Relations with Human and LLM Generated Event Data》（使用人类与 LLM 生成的事件数据衡量危机动态）。{% include file-actions.html preview="/files/previews/dcl-escalation-introduction-20260207.pdf" download="/files/dcl-escalation-introduction-20260207.pptx" download_label="下载 PPTX" %}
+- **实证研究复现**：《Resources and Territorial Claims: Domestic Opposition to Resource-Rich Territory》（资源与领土主张）。{% include file-actions.html preview="/files/previews/dcl-territorial-claims-replication-20260207.pdf" download="/files/dcl-territorial-claims-replication-20260207.pptx" download_label="下载 PPTX" %}
+- **AI研究复现**：《What is Escalation? Measuring Crisis Dynamics in International Relations with Human and LLM Generated Event Data》（使用人类与 LLM 生成的事件数据衡量危机动态）。{% include file-actions.html preview="/files/previews/dcl-escalation-introduction-20260207.pdf" download="/files/dcl-escalation-introduction-20260207.pptx" download_label="下载 PPTX" %}

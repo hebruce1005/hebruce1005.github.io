@@ -1,12 +1,12 @@
 ---
 title: "产业政策如何影响经济方略有效性：以中国两次对外稀土反制为例"
-excerpt: "以中国两次对外稀土反制为例的政策与产业数据分析"
+excerpt: "北京外国语大学本科优秀毕业论文"
 collection: portfolio
 permalink: /portfolio/rare-earth-economic-statecraft/
 date: 2026-07-01
 ---
 
-该论文获评为北京外国语大学校级优秀毕业论文，本人独立写作，但受益于跟[李帅宇老师](https://sird.bfsu.edu.cn/info/1073/3723.htm)的诸多讨论交流。
+该论文获评为北京外国语大学校级优秀毕业论文，本人独立写作，受益于跟[李帅宇老师](https://sird.bfsu.edu.cn/info/1073/3723.htm)的诸多讨论交流。
 
 **本科毕业论文** · 北京外国语大学国际关系学院外交学专业
 
